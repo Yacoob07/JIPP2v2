@@ -1,0 +1,168 @@
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\appsettings.Development.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\appsettings.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.staticwebassets.runtime.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.exe
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.deps.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.runtimeconfig.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Sklep kibica.pdb
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Azure.Core.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Azure.Identity.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Humanizer.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.ClientModel.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.CodeDom.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Text.Json.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.csproj.AssemblyReference.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.AssemblyInfoInputs.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.AssemblyInfo.cs
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.csproj.CoreCompileInputs.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.MvcApplicationPartsAssemblyInfo.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.RazorAssemblyInfo.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.RazorAssemblyInfo.cs
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets\msbuild.Sklep kibica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets\msbuild.build.Sklep kibica.props
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sklep kibica.props
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sklep kibica.props
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\scopedcss\bundle\Sklep kibica.styles.css
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\scopedcss\projectbundle\Sklep kibica.bundle.scp.css
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep ki.D92237AB.Up2Date
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\refint\Sklep kibica.dll
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.pdb
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\Sklep kibica.genruntimeconfig.cache
+C:\Studia\JIPP2\Sklep kibica\Sklep kibica\obj\Debug\net8.0\ref\Sklep kibica.dll

@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studia\\JIPP2\\FilmDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\data\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\data\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\repositories\\filmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\repositories\\filmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\views\\film\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\views\\film\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\models\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\models\\filmmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|c:\\studia\\jipp2\\filmdb\\filmdb\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD9D602B-84F4-4014-B392-F358E4FF35F3}|FilmDB\\FilmDB.csproj|solutionrelative:filmdb\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FilmDB\\appsettings.Development.json",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\appsettings.Development.json",
+              "RelativeToolTip": "FilmDB\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T16:08:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Program.cs",
+              "RelativeDocumentMoniker": "FilmDB\\Program.cs",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Program.cs",
+              "RelativeToolTip": "FilmDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:49:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FilmDB\\Views\\Film\\Delete.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Delete.cshtml",
+              "RelativeToolTip": "FilmDB\\Views\\Film\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T10:26:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmModel.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Models\\FilmModel.cs",
+              "RelativeDocumentMoniker": "FilmDB\\Models\\FilmModel.cs",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Models\\FilmModel.cs",
+              "RelativeToolTip": "FilmDB\\Models\\FilmModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:17:02.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Details.cshtml",
+              "RelativeDocumentMoniker": "FilmDB\\Views\\Film\\Details.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Details.cshtml",
+              "RelativeToolTip": "FilmDB\\Views\\Film\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T10:50:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmDB\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "FilmDB\\Views\\Film\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T10:17:45.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Add.cshtml",
+              "RelativeDocumentMoniker": "FilmDB\\Views\\Film\\Add.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Add.cshtml",
+              "RelativeToolTip": "FilmDB\\Views\\Film\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T09:58:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmManager.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Repositories\\FilmManager.cs",
+              "RelativeDocumentMoniker": "FilmDB\\Repositories\\FilmManager.cs",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Repositories\\FilmManager.cs",
+              "RelativeToolTip": "FilmDB\\Repositories\\FilmManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:43:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "FilmDB\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "FilmDB\\Controllers\\FilmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:17:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmDB\\appsettings.json",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\appsettings.json",
+              "RelativeToolTip": "FilmDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T19:30:38.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmContext.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Data\\FilmContext.cs",
+              "RelativeDocumentMoniker": "FilmDB\\Data\\FilmContext.cs",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Data\\FilmContext.cs",
+              "RelativeToolTip": "FilmDB\\Data\\FilmContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:18:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FilmDB\\Views\\Film\\Edit.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2\\FilmDB\\FilmDB\\Views\\Film\\Edit.cshtml",
+              "RelativeToolTip": "FilmDB\\Views\\Film\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T10:36:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
