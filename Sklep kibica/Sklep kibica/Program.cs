@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.EntityFrameworkCore;
 using Sklep_kibica.Data;
+using Sklep_kibica.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,9 +9,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ShopContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddTransient<ShopManager>();
 
+builder.Services.AddTransient<ShopManager>();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<ShopContext>();
+    context.Database.Migrate(); 
+    ShopContext.SeedData(context); 
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Sklep_kibica.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Dziękujemy";
+    decimal total = Model.Sum(x => x.Quantity * x.Product.Price);
+}
+
+<p>Poniżej znajduje się podsumowanie Twojego zamówienia:</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Produkt</th>
+            <th>Ilość</th>
+            <th>Cena jednostkowa</th>
+            <th>Razem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product.Price zł</td>
+                <td>@(item.Quantity * item.Product.Price) zł</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4>Łączna kwota do zapłaty: <strong>@total zł</strong></h4>
+
+
+<h2>Dziękujemy za zakupy!</h2>
+
+
+<a asp-action="Index" class="btn btn-success">Wróć do sklepu</a>

@@ -1,37 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Studia\\JIPP2\\Sklep kibica\\",
+  "WorkspaceRootPath": "C:\\Studia\\JIPP2v2\\Sklep kibica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\migrations\\20250413162911_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\migrations\\20250413162911_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\repositories\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\repositories\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\shop\\finalize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\shop\\finalize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\shop\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\shop\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2\\sklep kibica\\sklep kibica\\sklep kibica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\shop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\shop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|c:\\studia\\jipp2v2\\sklep kibica\\sklep kibica\\sklep kibica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{63F56490-5434-43C3-B2AA-EC986228E985}|Sklep kibica\\Sklep kibica.csproj|solutionrelative:sklep kibica\\sklep kibica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,78 +74,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T16:38:20.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250413162911_Init.cs",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Migrations\\20250413162911_Init.cs",
-              "RelativeDocumentMoniker": "Sklep kibica\\Migrations\\20250413162911_Init.cs",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Migrations\\20250413162911_Init.cs",
-              "RelativeToolTip": "Sklep kibica\\Migrations\\20250413162911_Init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Sklep kibica\\Models\\Product.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Models\\Product.cs",
+              "RelativeToolTip": "Sklep kibica\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:29:11.361Z",
+              "WhenOpened": "2025-04-13T15:44:00.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\appsettings.json",
-              "RelativeDocumentMoniker": "Sklep kibica\\appsettings.json",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\appsettings.json",
-              "RelativeToolTip": "Sklep kibica\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T16:08:36.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Data\\Context.cs",
-              "RelativeDocumentMoniker": "Sklep kibica\\Data\\Context.cs",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Data\\Context.cs",
-              "RelativeToolTip": "Sklep kibica\\Data\\Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:00:13.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Program.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Program.cs",
               "RelativeDocumentMoniker": "Sklep kibica\\Program.cs",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Program.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Program.cs",
               "RelativeToolTip": "Sklep kibica\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:59:21.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Finalize.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Finalize.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Finalize.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Finalize.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Finalize.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T16:25:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Cart.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Cart.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Cart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T16:23:53.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T16:38:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Add.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Add.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Add.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T10:51:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Sklep kibica\\Data\\ShopContext.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Data\\ShopContext.cs",
+              "RelativeToolTip": "Sklep kibica\\Data\\ShopContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:00:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Shop\\Delete.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Shop\\Delete.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Shop\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T12:58:24.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Sklep kibica\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Models\\CartItem.cs",
+              "RelativeToolTip": "Sklep kibica\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:06:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Controllers\\ShopController.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Sklep kibica\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Controllers\\ShopController.cs",
               "RelativeToolTip": "Sklep kibica\\Controllers\\ShopController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwD0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:51:13.876Z",
               "EditorCaption": ""
@@ -133,25 +205,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShopModel.cs",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Models\\ShopModel.cs",
-              "RelativeDocumentMoniker": "Sklep kibica\\Models\\ShopModel.cs",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Models\\ShopModel.cs",
-              "RelativeToolTip": "Sklep kibica\\Models\\ShopModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAArAAAA",
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Repositories\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Sklep kibica\\Repositories\\ShopManager.cs",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Repositories\\ShopManager.cs",
+              "RelativeToolTip": "Sklep kibica\\Repositories\\ShopManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:44:00.768Z",
+              "WhenOpened": "2025-05-30T10:34:00.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Sklep kibica",
-              "DocumentMoniker": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Sklep kibica\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Sklep kibica\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:10:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sklep kibica.csproj",
+              "DocumentMoniker": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
               "RelativeDocumentMoniker": "Sklep kibica\\Sklep kibica.csproj",
-              "ToolTip": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
+              "ToolTip": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
               "RelativeToolTip": "Sklep kibica\\Sklep kibica.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-13T15:47:24.76Z",
               "EditorCaption": ""

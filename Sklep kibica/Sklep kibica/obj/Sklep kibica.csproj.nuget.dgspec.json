@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj": {}
+    "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj": {}
   },
   "projects": {
-    "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj": {
+    "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
+        "projectUniqueName": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
         "projectName": "Sklep kibica",
-        "projectPath": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
+        "projectPath": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\Sklep kibica.csproj",
         "packagesPath": "A:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Studia\\JIPP2\\Sklep kibica\\Sklep kibica\\obj\\",
+        "outputPath": "C:\\Studia\\JIPP2v2\\Sklep kibica\\Sklep kibica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

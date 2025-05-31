@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Sklep_kibica.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Koszyk";
+    decimal total = 0;
+}
+
+<h1>Twój koszyk</h1>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Koszyk jest pusty.</div>
+    <a asp-action="Index" class="btn btn-secondary">Powrót do sklepu</a>
+}
+
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Produkt</th>
+                <th>Cena</th>
+                <th>Ilość</th>
+                <th>Suma</th>
+                <th>Akcje</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var rowTotal = item.Quantity * item.Product.Price;
+                total += rowTotal;
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Product.Price zł</td>
+                    <td>@item.Quantity</td>
+                    <td>@rowTotal zł</td>
+                    <td>
+                        <a asp-action="AddToCart2" asp-route-id="@item.ProductId" class="btn btn-sm btn-success">+</a>
+                        <a asp-action="RemoveFromCart" asp-route-id="@item.ProductId" class="btn btn-sm btn-warning">Usuń</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Łączna kwota: <strong>@total zł</strong></h4>
+
+    <div class="d-flex gap-2">
+        <form asp-action="Finalize" method="post">
+            <button type="submit" class="btn btn-primary">Finalizuj zakup</button>
+        </form>
+
+        <form asp-action="ClearCart" method="post">
+            <button type="submit" class="btn btn-danger">Wyczyść koszyk</button>
+        </form>
+
+        <a asp-action="Index" class="btn btn-secondary">Powrót do sklepu</a>
+    </div>
+
+}

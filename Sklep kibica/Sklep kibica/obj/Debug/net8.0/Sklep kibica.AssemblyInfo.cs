@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sklep kibica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18962d8ad46d32be936adca2bc341edd9c0f4a3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a137e17258957680f7686d1a414417f974d29f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sklep kibica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sklep kibica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

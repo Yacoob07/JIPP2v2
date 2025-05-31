@@ -1,7 +1,36 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<Sklep_kibica.Models.Product>
+
 @{
+    ViewData["Title"] = "Produkty";
 }
 
-<h1>To jest testowy widok dla Sklep kibica</h1>
+<h1>Sklep kibica - lista produktów</h1>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nazwa produktu</th>
+            <th>Cena</th>
+            <th>Akcje</th>
+            <th>Ilość w magazynie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price zł</td>
+                <td>
+                    <a asp-action="AddToCart" asp-route-id="@item.ID" class="btn btn-success btn-sm">Dodaj do koszyka</a>
+                </td>
+                <td>@item.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Cart" class="btn btn-warning" style="margin-left: 10px;">Przejdź do koszyka</a>
+</p>
